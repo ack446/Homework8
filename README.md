@@ -1,4 +1,4 @@
-# IS601008-Homework8
+# Homework8
 
 ## Devops - Automated Builds Pushing to Dockeruhub
 
